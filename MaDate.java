@@ -10,7 +10,7 @@ public class MaDate {
 
     public void setJour(int j) {
         this.jours = j;
-    }
+    }1
 
     public int getMois() {
         return this.mois;
